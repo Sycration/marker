@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d997dfe9-e4fe-4edd-91c6-01a1db65126c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/marker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="msag4t1b" />
+  </component>
+  <component name="ProjectId" id="1gW1PaRW0JntkJ7bCYfzgu2uJuB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/nes-rust" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+  </component>
+  <component name="RunManager" selected="Cargo Command.build">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cargo run" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="run" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="build" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
+      <option name="channel" value="DEFAULT" />
+      <option name="command" value="build --release" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="backtrace" value="SHORT" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cargo Command.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d997dfe9-e4fe-4edd-91c6-01a1db65126c" name="Default Changelist" comment="" />
+      <created>1598215511485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598215511485</updated>
+      <workItem from="1598215513245" duration="1909000" />
+      <workItem from="1598218598417" duration="1447000" />
+      <workItem from="1598296821310" duration="40000" />
+      <workItem from="1598306046887" duration="1366000" />
+      <workItem from="1598372317238" duration="8893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1302" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598216083969">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="1302" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1403@0.0.2560.1403" timestamp="1598216083969" />
+    <state x="1627" y="459" width="428" height="484" key="FileChooserDialogImpl" timestamp="1598296858987">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="1627" y="459" width="428" height="484" key="FileChooserDialogImpl/0.0.2560.1403@0.0.2560.1403" timestamp="1598296858987" />
+    <state width="1007" height="353" key="GridCell.Tab.0.bottom" timestamp="1598387088657">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1007" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088657" />
+    <state width="1007" height="353" key="GridCell.Tab.0.center" timestamp="1598387088656">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1007" height="353" key="GridCell.Tab.0.center/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088656" />
+    <state width="1007" height="353" key="GridCell.Tab.0.left" timestamp="1598387088655">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1007" height="353" key="GridCell.Tab.0.left/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088655" />
+    <state width="1007" height="353" key="GridCell.Tab.0.right" timestamp="1598387088656">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state width="1007" height="353" key="GridCell.Tab.0.right/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088656" />
+    <state x="1646" y="393" width="391" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598372980251">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="1646" y="393" width="391" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1403@0.0.2560.1403" timestamp="1598372980251" />
+    <state x="1506" y="328" key="run.anything.popup" timestamp="1598218657979">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="1506" y="328" key="run.anything.popup/0.0.2560.1403@0.0.2560.1403" timestamp="1598218657979" />
+  </component>
+</project>
