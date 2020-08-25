@@ -21,10 +21,9 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d997dfe9-e4fe-4edd-91c6-01a1db65126c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/marker.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d997dfe9-e4fe-4edd-91c6-01a1db65126c" name="Default Changelist" comment="first release">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,8 +106,16 @@
       <workItem from="1598218598417" duration="1447000" />
       <workItem from="1598296821310" duration="40000" />
       <workItem from="1598306046887" duration="1366000" />
-      <workItem from="1598372317238" duration="8893000" />
+      <workItem from="1598372317238" duration="9202000" />
     </task>
+    <task id="LOCAL-00001" summary="first release">
+      <created>1598387129682</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598387129682</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +133,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first release" />
+    <option name="LAST_COMMIT_MESSAGE" value="first release" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="1302" y="359" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598216083969">
       <screen x="0" y="0" width="2560" height="1403" />
@@ -135,26 +146,34 @@
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
     <state x="1627" y="459" width="428" height="484" key="FileChooserDialogImpl/0.0.2560.1403@0.0.2560.1403" timestamp="1598296858987" />
-    <state width="1007" height="353" key="GridCell.Tab.0.bottom" timestamp="1598387088657">
+    <state width="1007" height="353" key="GridCell.Tab.0.bottom" timestamp="1598387384955">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1007" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088657" />
-    <state width="1007" height="353" key="GridCell.Tab.0.center" timestamp="1598387088656">
+    <state width="1007" height="353" key="GridCell.Tab.0.bottom/0.0.2560.1403@0.0.2560.1403" timestamp="1598387384955" />
+    <state width="1007" height="353" key="GridCell.Tab.0.center" timestamp="1598387384954">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1007" height="353" key="GridCell.Tab.0.center/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088656" />
-    <state width="1007" height="353" key="GridCell.Tab.0.left" timestamp="1598387088655">
+    <state width="1007" height="353" key="GridCell.Tab.0.center/0.0.2560.1403@0.0.2560.1403" timestamp="1598387384954" />
+    <state width="1007" height="353" key="GridCell.Tab.0.left" timestamp="1598387384954">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1007" height="353" key="GridCell.Tab.0.left/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088655" />
-    <state width="1007" height="353" key="GridCell.Tab.0.right" timestamp="1598387088656">
+    <state width="1007" height="353" key="GridCell.Tab.0.left/0.0.2560.1403@0.0.2560.1403" timestamp="1598387384954" />
+    <state width="1007" height="353" key="GridCell.Tab.0.right" timestamp="1598387384955">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
-    <state width="1007" height="353" key="GridCell.Tab.0.right/0.0.2560.1403@0.0.2560.1403" timestamp="1598387088656" />
+    <state width="1007" height="353" key="GridCell.Tab.0.right/0.0.2560.1403@0.0.2560.1403" timestamp="1598387384955" />
+    <state x="123" y="433" width="804" height="536" key="Vcs.Push.Dialog.v2" timestamp="1598387220926">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="123" y="433" width="804" height="536" key="Vcs.Push.Dialog.v2/0.0.2560.1403@0.0.2560.1403" timestamp="1598387220926" />
     <state x="1646" y="393" width="391" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598372980251">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>
     <state x="1646" y="393" width="391" height="617" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1403@0.0.2560.1403" timestamp="1598372980251" />
+    <state x="330" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598387262600">
+      <screen x="0" y="0" width="2560" height="1403" />
+    </state>
+    <state x="330" y="614" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1403@0.0.2560.1403" timestamp="1598387262600" />
     <state x="1506" y="328" key="run.anything.popup" timestamp="1598218657979">
       <screen x="0" y="0" width="2560" height="1403" />
     </state>

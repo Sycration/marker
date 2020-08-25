@@ -4,10 +4,9 @@ use std::fs::File;
 use std::fs::OpenOptions;
 use std::io::prelude::*;
 use std::io::Read;
-use webbrowser;
-use clap::{Clap, App, Arg};
 
 use pulldown_cmark::{Parser, Options, html};
+use clap::App;
 
 fn main() {
     let matches = App::new("marker")
@@ -62,7 +61,7 @@ fn main() {
         let mut file = file.unwrap();
         file.write((&mut html_output).as_ref());
     } else {
-        let mut file = OpenOptions::new()
+        let file = OpenOptions::new()
             .write(true)
             .append(true)
             .create(true)
